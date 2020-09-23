@@ -1,2 +1,2 @@
 # ML_ipynb
-machine learning related ipynb that I created for practice
+Machine learning related jupiter notebooks that I created for practice.
